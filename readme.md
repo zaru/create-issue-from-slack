@@ -4,6 +4,8 @@ This's Slack Actions server script. You can create GitHub issues from Slack mess
 
 - [Slack Actions](https://api.slack.com/interactivity/actions)
 
+![](https://user-images.githubusercontent.com/235650/68941875-5b13fe00-07ea-11ea-8119-e5ad02ddb287.gif)
+
 ## Usage
 
 ### Set environments
